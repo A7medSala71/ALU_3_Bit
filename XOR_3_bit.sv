@@ -1,0 +1,9 @@
+module XOR_3bit (
+    input  logic [2:0] A,
+    input  logic [2:0] B,
+    output logic [2:0] F
+);
+    assign F[0] = A[0] ^ B[0];
+    assign F[1] = A[1] ^ B[1];
+    assign F[2] = A[2] ^ B[2];
+endmodule

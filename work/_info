@@ -1,0 +1,473 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+vALU_3_bit
+Z0 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+!s110 1753918182
+!i10b 1
+!s100 zYoafC1@Xl?OzobN@c_[V1
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I0D?Uzj`2lMHeQk@@Pbz^e2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+S1
+Z3 dF:/Summer 2025/Digital/Project
+w1753918180
+8F:/Summer 2025/Digital/Project/ALU_3_Bit.sv
+FF:/Summer 2025/Digital/Project/ALU_3_Bit.sv
+!i122 91
+L0 1 47
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1753918182.000000
+!s107 F:/Summer 2025/Digital/Project/ALU_3_Bit.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|F:/Summer 2025/Digital/Project/ALU_3_Bit.sv|
+!i113 1
+Z5 o-work work -sv
+Z6 tCvgOpt 0
+n@a@l@u_3_bit
+vALU_3_bit_tb
+R0
+!s110 1753929980
+!i10b 1
+!s100 5mABRHe[>>]?fEP:`4Q=K2
+R1
+I>a_jQ1P4RCa?[C4?FOU;;3
+R2
+S1
+R3
+w1753929978
+Z7 8F:/Summer 2025/Digital/Project/Testbench.sv
+Z8 FF:/Summer 2025/Digital/Project/Testbench.sv
+!i122 95
+L0 1 39
+R4
+r1
+!s85 0
+31
+!s108 1753929980.000000
+Z9 !s107 F:/Summer 2025/Digital/Project/Testbench.sv|
+Z10 !s90 -reportprogress|300|-work|work|-sv|-stats=none|F:/Summer 2025/Digital/Project/Testbench.sv|
+!i113 1
+R5
+R6
+n@a@l@u_3_bit_tb
+vand_3bit
+R0
+!s110 1753916791
+!i10b 1
+!s100 dWEeYPMX2FfmHbn[V=[HL0
+R1
+IGWImD80VQzJ0iiWIzJ;8M1
+R2
+S1
+R3
+w1753916771
+Z11 8F:/Summer 2025/Digital/Project/AND_3_bit.sv
+Z12 FF:/Summer 2025/Digital/Project/AND_3_bit.sv
+!i122 63
+Z13 L0 1 9
+R4
+r1
+!s85 0
+31
+!s108 1753916791.000000
+Z14 !s107 F:/Summer 2025/Digital/Project/AND_3_bit.sv|
+Z15 !s90 -reportprogress|300|-work|work|-sv|-stats=none|F:/Summer 2025/Digital/Project/AND_3_bit.sv|
+!i113 1
+R5
+R6
+vAND_3bit
+R0
+!s110 1753916829
+!i10b 1
+!s100 eN[]C8_:^4Qf2eEF@DE`]0
+R1
+I]WEf6R846;o>POXf4TAHS3
+R2
+S1
+R3
+w1753916827
+R11
+R12
+!i122 65
+R13
+R4
+r1
+!s85 0
+31
+!s108 1753916829.000000
+R14
+R15
+!i113 1
+R5
+R6
+n@a@n@d_3bit
+vFull_Adder
+R0
+!s110 1753915958
+!i10b 1
+!s100 O16Zj35GeVAQ5HMeJLMha1
+R1
+IfKYD6hEaF6j?NF`VfICjJ3
+R2
+S1
+R3
+w1753915955
+8F:/Summer 2025/Digital/Project/Full_Adder.sv
+FF:/Summer 2025/Digital/Project/Full_Adder.sv
+!i122 42
+Z16 L0 1 10
+R4
+r1
+!s85 0
+31
+!s108 1753915958.000000
+!s107 F:/Summer 2025/Digital/Project/Full_Adder.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|F:/Summer 2025/Digital/Project/Full_Adder.sv|
+!i113 1
+R5
+R6
+n@full_@adder
+vFull_Adder_3_bit
+R0
+!s110 1753916256
+!i10b 1
+!s100 a5FO6>hi3TQ3^V4^z:nTR2
+R1
+Ij@DJQQ?m:cGM711VLb>M;3
+R2
+S1
+R3
+w1753916255
+8F:/Summer 2025/Digital/Project/3_bit_Full_Adder.sv
+FF:/Summer 2025/Digital/Project/3_bit_Full_Adder.sv
+!i122 48
+L0 1 11
+R4
+r1
+!s85 0
+31
+!s108 1753916256.000000
+!s107 F:/Summer 2025/Digital/Project/3_bit_Full_Adder.sv|
+Z17 !s90 -reportprogress|300|-work|work|-sv|-stats=none|F:/Summer 2025/Digital/Project/3_bit_Full_Adder.sv|
+!i113 1
+R5
+R6
+n@full_@adder_3_bit
+vFull_Sub_3_bit
+R0
+!s110 1753916752
+!i10b 1
+!s100 cb2`8JnnoAiO1f0458<l93
+R1
+Ik`zn2]QI;nUi0[OXC0OXc3
+R2
+S1
+R3
+w1753916719
+8F:/Summer 2025/Digital/Project/3_bit_Full_Subtractor.sv
+FF:/Summer 2025/Digital/Project/3_bit_Full_Subtractor.sv
+!i122 59
+L0 1 13
+R4
+r1
+!s85 0
+31
+!s108 1753916752.000000
+!s107 F:/Summer 2025/Digital/Project/3_bit_Full_Subtractor.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|F:/Summer 2025/Digital/Project/3_bit_Full_Subtractor.sv|
+!i113 1
+R5
+R6
+n@full_@sub_3_bit
+vhalf_adder
+R0
+!s110 1753914804
+!i10b 1
+!s100 jihjHTU?9;K7EGm]J;GI02
+R1
+I9hda:K3FWzf_iJC2=ml2j1
+R2
+S1
+R3
+w1753911840
+8Half_Adder.sv
+FHalf_Adder.sv
+!i122 38
+Z18 L0 1 7
+R4
+r1
+!s85 0
+31
+!s108 1753914804.000000
+!s107 Half_Adder.sv|F:/Summer 2025/Digital/Project/3_bit_Full_Adder.sv|
+R17
+!i113 1
+R5
+R6
+vNot_3bit
+R0
+!s110 1753915939
+!i10b 1
+!s100 <XI^FoNK]2RLf6dJTNSUf2
+R1
+I67LOfDk=k`n4CPA64nAm60
+R2
+S1
+R3
+w1753915937
+Z19 8F:/Summer 2025/Digital/Project/NOT_3_bit.sv
+Z20 FF:/Summer 2025/Digital/Project/NOT_3_bit.sv
+!i122 40
+Z21 L0 1 6
+R4
+r1
+!s85 0
+31
+!s108 1753915939.000000
+Z22 !s107 F:/Summer 2025/Digital/Project/NOT_3_bit.sv|
+Z23 !s90 -reportprogress|300|-work|work|-sv|-stats=none|F:/Summer 2025/Digital/Project/NOT_3_bit.sv|
+!i113 1
+R5
+R6
+n@not_3bit
+vNOT_3bit
+R0
+!s110 1753917685
+!i10b 1
+!s100 XQQoJc6@VnfI89bN^hGL33
+R1
+IfTXV_;EJPeZD2E6c;GQ;01
+R2
+S1
+R3
+w1753917683
+R19
+R20
+!i122 82
+R21
+R4
+r1
+!s85 0
+31
+!s108 1753917685.000000
+R22
+R23
+!i113 1
+R5
+R6
+n@n@o@t_3bit
+vOR_3bit
+R0
+!s110 1753916838
+!i10b 1
+!s100 jG24:gizgTIB?N>Q1?CDM1
+R1
+IIAYhS_@B?HRS=E[_5`RjT3
+R2
+S1
+R3
+w1753916836
+8F:/Summer 2025/Digital/Project/OR_3_bit.sv
+FF:/Summer 2025/Digital/Project/OR_3_bit.sv
+!i122 68
+R13
+R4
+r1
+!s85 0
+31
+!s108 1753916838.000000
+!s107 F:/Summer 2025/Digital/Project/OR_3_bit.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|F:/Summer 2025/Digital/Project/OR_3_bit.sv|
+!i113 1
+R5
+R6
+n@o@r_3bit
+vShift_Left_2
+R0
+!s110 1753916978
+!i10b 1
+!s100 @=TS`OI19jCzBTJk>A]9I0
+R1
+IeIm>A?VTLMnne<6HdK>Qn2
+R2
+S1
+R3
+w1753916972
+8F:/Summer 2025/Digital/Project/SHIFT_LEFT.sv
+FF:/Summer 2025/Digital/Project/SHIFT_LEFT.sv
+!i122 73
+R18
+R4
+r1
+!s85 0
+31
+!s108 1753916978.000000
+!s107 F:/Summer 2025/Digital/Project/SHIFT_LEFT.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|F:/Summer 2025/Digital/Project/SHIFT_LEFT.sv|
+!i113 1
+R5
+R6
+n@shift_@left_2
+vshift_left_arith_1
+R0
+!s110 1753917301
+!i10b 1
+!s100 Q23I?WAUP:QVb3gzkLn:V0
+R1
+IE]W6ZUFLR80QDMi0dCJ7Q3
+R2
+S1
+R3
+w1753917299
+8F:/Summer 2025/Digital/Project/shift_left_arith_1.sv
+FF:/Summer 2025/Digital/Project/shift_left_arith_1.sv
+!i122 78
+Z24 L0 1 8
+R4
+r1
+!s85 0
+31
+!s108 1753917301.000000
+!s107 F:/Summer 2025/Digital/Project/shift_left_arith_1.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|F:/Summer 2025/Digital/Project/shift_left_arith_1.sv|
+!i113 1
+R5
+R6
+vShift_Right_3
+R0
+!s110 1753916999
+!i10b 1
+!s100 k]J;a[0h3HO?j^Bh<<YiP2
+R1
+IzQA^?X[W7EEahDomVc55o1
+R2
+S1
+R3
+w1753916996
+8F:/Summer 2025/Digital/Project/SHIFT_RIGHT.sv
+FF:/Summer 2025/Digital/Project/SHIFT_RIGHT.sv
+!i122 75
+R18
+R4
+r1
+!s85 0
+31
+!s108 1753916999.000000
+!s107 F:/Summer 2025/Digital/Project/SHIFT_RIGHT.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|F:/Summer 2025/Digital/Project/SHIFT_RIGHT.sv|
+!i113 1
+R5
+R6
+n@shift_@right_3
+vshift_right_arith_1
+R0
+!s110 1753917267
+!i10b 1
+!s100 g^Ehf3>d0o2@S:HiUJ5f51
+R1
+IRbPa8SYzW]EJVlR2NW4`H3
+R2
+S1
+R3
+w1753917265
+8F:/Summer 2025/Digital/Project/shift_right_arith_1 .sv
+FF:/Summer 2025/Digital/Project/shift_right_arith_1 .sv
+!i122 76
+R24
+R4
+r1
+!s85 0
+31
+!s108 1753917267.000000
+!s107 F:/Summer 2025/Digital/Project/shift_right_arith_1 .sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|F:/Summer 2025/Digital/Project/shift_right_arith_1 .sv|
+!i113 1
+R5
+R6
+vtb_alu_3bit
+R0
+!s110 1753929548
+!i10b 1
+!s100 Z]ScD8796c66l[iWeiInK0
+R1
+I_G1O7f1EIhU5D;_UlNbc?3
+R2
+S1
+R3
+w1753929470
+R7
+R8
+!i122 93
+L0 1 25
+R4
+r1
+!s85 0
+31
+!s108 1753929548.000000
+R9
+R10
+!i113 1
+R5
+R6
+vtwos_complement
+R0
+!s110 1753918100
+!i10b 1
+!s100 ^WoJe_0^eRH_jM6JDXDIf1
+R1
+I9f;Tb@ZY]c;zniaRF`>@c3
+R2
+S1
+R3
+w1753918098
+8F:/Summer 2025/Digital/Project/2's_Complement.sv
+FF:/Summer 2025/Digital/Project/2's_Complement.sv
+!i122 89
+R16
+R4
+r1
+!s85 0
+31
+!s108 1753918100.000000
+!s107 F:/Summer 2025/Digital/Project/2's_Complement.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|F:/Summer 2025/Digital/Project/2's_Complement.sv|
+!i113 1
+R5
+R6
+vXOR_3bit
+R0
+!s110 1753916858
+!i10b 1
+!s100 DTDG9o9m[ffN=FA6L:C<Z2
+R1
+Ie7Hcd9[1i`TYCH>Xa7ejC1
+R2
+S1
+R3
+w1753916854
+8F:/Summer 2025/Digital/Project/XOR_3_bit.sv
+FF:/Summer 2025/Digital/Project/XOR_3_bit.sv
+!i122 71
+R13
+R4
+r1
+!s85 0
+31
+!s108 1753916858.000000
+!s107 F:/Summer 2025/Digital/Project/XOR_3_bit.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|F:/Summer 2025/Digital/Project/XOR_3_bit.sv|
+!i113 1
+R5
+R6
+n@x@o@r_3bit

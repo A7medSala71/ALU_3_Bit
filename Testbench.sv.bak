@@ -1,0 +1,25 @@
+module tb_alu_3bit;
+    logic [2:0] A, B;
+    logic [3:0] sel;
+    logic [4:0] F;
+    logic V, Z;
+
+    alu_3bit uut (.A(A), .B(B), .sel(sel), .F(F), .V(V), .Z(Z));
+
+    initial begin
+        A = 3'b110; B = 3'b011;  // example with negative (signed) number
+        sel = 4'b0000; #10; // ADD
+        sel = 4'b0001; #10; // SUB
+        sel = 4'b0010; #10; // 2's Comp
+        sel = 4'b0011; #10; // OR
+        sel = 4'b0100; #10; // AND
+        sel = 4'b0101; #10; // XOR
+        sel = 4'b0110; #10; // NOT
+        sel = 4'b0111; #10; // Shift Left Logical
+        sel = 4'b1000; #10; // Shift Right Logical
+        sel = 4'b1001; #10; // Arithmetic Shift Right
+        sel = 4'b1010; #10; // Arithmetic Shift Left
+
+        $stop;
+    end
+endmodule

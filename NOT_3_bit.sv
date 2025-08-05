@@ -1,0 +1,6 @@
+module NOT_3bit (
+    input  logic [2:0] A,
+    output logic [2:0] Y
+);
+    assign Y = ~A;
+endmodule

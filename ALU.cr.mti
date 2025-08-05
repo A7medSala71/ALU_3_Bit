@@ -1,0 +1,99 @@
+{F:/Summer 2025/Digital/Project/Testbench.sv} {1 {vlog -work work -sv -stats=none {F:/Summer 2025/Digital/Project/Testbench.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ALU_3_bit_tb
+
+Top level modules:
+	ALU_3_bit_tb
+
+} {} {}} {F:/Summer 2025/Digital/Project/NOT_3_bit.sv} {1 {vlog -work work -sv -stats=none {F:/Summer 2025/Digital/Project/NOT_3_bit.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module NOT_3bit
+
+Top level modules:
+	NOT_3bit
+
+} {} {}} {F:/Summer 2025/Digital/Project/ALU_3_Bit.sv} {1 {vlog -work work -sv -stats=none {F:/Summer 2025/Digital/Project/ALU_3_Bit.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ALU_3_bit
+
+Top level modules:
+	ALU_3_bit
+
+} {} {}} {F:/Summer 2025/Digital/Project/Full_Adder.sv} {1 {vlog -work work -sv -stats=none {F:/Summer 2025/Digital/Project/Full_Adder.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Full_Adder
+
+Top level modules:
+	Full_Adder
+
+} {} {}} {F:/Summer 2025/Digital/Project/shift_right_arith_1 .sv} {1 {vlog -work work -sv -stats=none {F:/Summer 2025/Digital/Project/shift_right_arith_1 .sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module shift_right_arith_1
+
+Top level modules:
+	shift_right_arith_1
+
+} {} {}} {F:/Summer 2025/Digital/Project/3_bit_Full_Subtractor.sv} {1 {vlog -work work -sv -stats=none {F:/Summer 2025/Digital/Project/3_bit_Full_Subtractor.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Full_Sub_3_bit
+
+Top level modules:
+	Full_Sub_3_bit
+
+} {} {}} {F:/Summer 2025/Digital/Project/shift_left_arith_1.sv} {1 {vlog -work work -sv -stats=none {F:/Summer 2025/Digital/Project/shift_left_arith_1.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module shift_left_arith_1
+
+Top level modules:
+	shift_left_arith_1
+
+} {} {}} {F:/Summer 2025/Digital/Project/2's_Complement.sv} {1 {vlog -work work -sv -stats=none {F:/Summer 2025/Digital/Project/2's_Complement.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module twos_complement
+
+Top level modules:
+	twos_complement
+
+} {} {}} {F:/Summer 2025/Digital/Project/SHIFT_LEFT.sv} {1 {vlog -work work -sv -stats=none {F:/Summer 2025/Digital/Project/SHIFT_LEFT.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Shift_Left_2
+
+Top level modules:
+	Shift_Left_2
+
+} {} {}} {F:/Summer 2025/Digital/Project/XOR_3_bit.sv} {1 {vlog -work work -sv -stats=none {F:/Summer 2025/Digital/Project/XOR_3_bit.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module XOR_3bit
+
+Top level modules:
+	XOR_3bit
+
+} {} {}} {F:/Summer 2025/Digital/Project/OR_3_bit.sv} {1 {vlog -work work -sv -stats=none {F:/Summer 2025/Digital/Project/OR_3_bit.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module OR_3bit
+
+Top level modules:
+	OR_3bit
+
+} {} {}} {F:/Summer 2025/Digital/Project/3_bit_Full_Adder.sv} {1 {vlog -work work -sv -stats=none {F:/Summer 2025/Digital/Project/3_bit_Full_Adder.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Full_Adder_3_bit
+
+Top level modules:
+	Full_Adder_3_bit
+
+} {} {}} {F:/Summer 2025/Digital/Project/SHIFT_RIGHT.sv} {1 {vlog -work work -sv -stats=none {F:/Summer 2025/Digital/Project/SHIFT_RIGHT.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Shift_Right_3
+
+Top level modules:
+	Shift_Right_3
+
+} {} {}} {F:/Summer 2025/Digital/Project/AND_3_bit.sv} {1 {vlog -work work -sv -stats=none {F:/Summer 2025/Digital/Project/AND_3_bit.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module AND_3bit
+
+Top level modules:
+	AND_3bit
+
+} {} {}}
