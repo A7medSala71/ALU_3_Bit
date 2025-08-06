@@ -1,0 +1,65 @@
+# Compile of 3_bit_Full_Adder.sv was successful.
+# Compile of 3_bit_Full_Subtractor.sv was successful.
+# Compile of 2's_Complement.sv was successful.
+# Compile of AND_3_bit.sv was successful.
+# Compile of OR_3_bit.sv was successful.
+# Compile of XOR_3_bit.sv was successful.
+# Compile of NOT_3_bit.sv was successful.
+# Compile of SHIFT_RIGHT.sv was successful.
+# Compile of SHIFT_LEFT.sv was successful.
+# Compile of Full_Adder.sv was successful.
+# Compile of shift_right_arith_1 .sv was successful.
+# Compile of shift_left_arith_1.sv was successful.
+# Compile of ALU_3_Bit.sv was successful.
+# Compile of Testbench.sv was successful.
+# 14 compiles, 0 failed with no errors.
+# Load canceled
+vsim -gui work.ALU_3_bit
+# vsim -gui work.ALU_3_bit 
+# Start time: 22:57:36 on Aug 06,2025
+# Loading sv_std.std
+# Loading work.ALU_3_bit
+# Loading work.Full_Adder_3_bit
+# Loading work.Full_Adder
+# Loading work.Full_Sub_3_bit
+# Loading work.twos_complement
+# Loading work.NOT_3bit
+# Loading work.AND_3bit
+# Loading work.OR_3bit
+# Loading work.XOR_3bit
+# Loading work.Shift_Left_2
+# Loading work.Shift_Right_3
+# Loading work.shift_right_arith_1
+# Loading work.shift_left_arith_1
+add wave -position insertpoint sim:/ALU_3_bit/*
+force -freeze sim:/ALU_3_bit/A 011 0
+force -freeze sim:/ALU_3_bit/B 101 0
+force -freeze sim:/ALU_3_bit/sel 0000 0
+run
+quit -sim
+vsim -gui work.ALU_3_bit_tb
+# End time: 23:01:10 on Aug 06,2025, Elapsed time: 0:03:34
+# Errors: 0, Warnings: 2
+# vsim -gui work.ALU_3_bit_tb 
+# Start time: 23:01:10 on Aug 06,2025
+# Loading sv_std.std
+# Loading work.ALU_3_bit_tb
+# Loading work.ALU_3_bit
+# Loading work.Full_Adder_3_bit
+# Loading work.Full_Adder
+# Loading work.Full_Sub_3_bit
+# Loading work.twos_complement
+# Loading work.NOT_3bit
+# Loading work.AND_3bit
+# Loading work.OR_3bit
+# Loading work.XOR_3bit
+# Loading work.Shift_Left_2
+# Loading work.Shift_Right_3
+# Loading work.shift_right_arith_1
+# Loading work.shift_left_arith_1
+add wave -position insertpoint sim:/ALU_3_bit_tb/*
+run
+run
+run
+# End time: 23:14:50 on Aug 06,2025, Elapsed time: 0:13:40
+# Errors: 0, Warnings: 1

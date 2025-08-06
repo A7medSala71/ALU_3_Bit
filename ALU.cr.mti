@@ -82,18 +82,18 @@ Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 
 Top level modules:
 	Full_Adder_3_bit
 
-} {} {}} {F:/Summer 2025/Digital/Project/SHIFT_RIGHT.sv} {1 {vlog -work work -sv -stats=none {F:/Summer 2025/Digital/Project/SHIFT_RIGHT.sv}
-Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
--- Compiling module Shift_Right_3
-
-Top level modules:
-	Shift_Right_3
-
 } {} {}} {F:/Summer 2025/Digital/Project/AND_3_bit.sv} {1 {vlog -work work -sv -stats=none {F:/Summer 2025/Digital/Project/AND_3_bit.sv}
 Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
 -- Compiling module AND_3bit
 
 Top level modules:
 	AND_3bit
+
+} {} {}} {F:/Summer 2025/Digital/Project/SHIFT_RIGHT.sv} {1 {vlog -work work -sv -stats=none {F:/Summer 2025/Digital/Project/SHIFT_RIGHT.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Shift_Right_3
+
+Top level modules:
+	Shift_Right_3
 
 } {} {}}
