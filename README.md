@@ -72,7 +72,7 @@ This project involves the **design**, **implementation**, and **simulation** of 
 - **Zero flag:** Derived using NOR gate from output
 - **Overflow flag:** Taken from MSB carry-out in addition
 - 📷 **Screenshot:**  
-  ![Logisim ALU](LOGISIM/logisim_alu.png)
+  ![Logisim ALU](LOGISIM/logisim_block.png)
 
 ---
 
@@ -98,7 +98,8 @@ run 100
 
 - 🧾 Observe output waveforms  
   📷 **Screenshot:**  
-  ![ModelSim Waveform](LOGISIM/modelsim_wave.png)
+  ![ModelSim Force Waveform](LOGISIM/forcing_wave.png)
+  ![ModelSim TestBench Waveform](LOGISIM/testbench_wave.png)
 
 ---
 
